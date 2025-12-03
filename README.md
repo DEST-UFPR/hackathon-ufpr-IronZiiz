@@ -106,3 +106,7 @@ Foi considerada uma solução intermediária com uma página para upload de arqu
 ## Documento Necessário para Avaliação
 
 Para entender completamente o funcionamento, decisões de arquitetura, fluxograma do projeto e instruções detalhadas, o avaliador deve acessar o arquivo **"Guia do Avaliador.pdf"** incluído neste repositório.
+
+## Curiosidades
+
+Na home inicial da página contém uma área de feedbacks com o simbolo de joinha. Esses botões registram o feedback do usuário com relação a página e salvam em banco de dados json!
