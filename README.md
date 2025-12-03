@@ -9,7 +9,7 @@ Este repositório contém a plataforma desenvolvida para análise de dados de av
 Acesse o projeto:
 [https://avaliacaoinstitucionalmath.streamlit.app](https://avaliacaoinstitucionalmath.streamlit.app)
 
-Observação: o site utiliza hospedagem gratuita do Streamlit. Caso esteja offline devido à inatividade, entre em contato pelo número informado no Guia do Avaliador.
+Observação: o site utiliza hospedagem gratuita do Streamlit. Caso esteja offline devido à inatividade, entre em contato pelo número informado no Guia do Avaliador.pdf .
 
 ## Arquitetura do Projeto
 
@@ -37,7 +37,7 @@ Arquivo que orquestra toda a execução da aplicação.
 
 ## Execução Local
 
-Para rodar o projeto em sua máquina, siga os passos abaixo:
+Caso deseje rodar o projeto em sua máquina, siga os passos abaixo:
 
 ### Clonar o repositório
 
