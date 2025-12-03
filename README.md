@@ -29,7 +29,7 @@ Componentes de interface utilizados pelo Streamlit.
 
 ### Data Loader
 
-Classe principal responsável por carregar os dados com segurança.
+Classe principal responsável por orquestrar o carregamento de dados com segurança. Classe mãe das classes de serviço.
 
 ### app.py
 
@@ -37,19 +37,67 @@ Arquivo que orquestra toda a execução da aplicação.
 
 ## Execução Local
 
-Para rodar o projeto em sua máquina:
+Para rodar o projeto em sua máquina, siga os passos abaixo:
 
-Instale as dependências:
+### Clonar o repositório
+
+Clone o repositório oficial do projeto:
+
+```bash
+git clone https://github.com/DEST-UFPR/hackathon-ufpr-IronZiiz.git
+```
+
+Acesse o diretório clonado:
+
+```bash
+cd hackathon-ufpr-IronZiiz
+```
+
+### Criar e ativar um ambiente virtual
+
+Certifique-se de ter o **Python** e o **pip** instalados em sua máquina. Em seguida, crie um ambiente virtual:
+
+```bash
+python -m venv venv
+```
+
+Ative o ambiente virtual:
+
+* **Windows:**
+
+  ```bash
+  venv\Scripts\activate
+  ```
+* **Linux/Mac:**
+
+  ```bash
+  source venv/bin/activate
+  ```
+
+### Instalar as dependências
+
+Com o ambiente virtual ativado, instale as dependências necessárias:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Execute a aplicação:
+### Executar a aplicação
+
+Inicie a aplicação Streamlit:
 
 ```bash
 streamlit run app.py
 ```
+
+---
+
+## Participantes
+
+* Thiago
+* Gabriel
+* Vini
+
 
 ## Observações Sobre Atualização de Dados
 
