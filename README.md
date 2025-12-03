@@ -1,6 +1,6 @@
 # Avaliação Institucional – Plataforma de Análise
 
-Projeto desenvolvido para o Hackathon 2025
+Projeto desenvolvido pela equipe Mathmorphosis para o Hackathon 2025
 
 ## Resumo do Projeto
 
