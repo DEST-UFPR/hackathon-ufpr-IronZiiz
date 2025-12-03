@@ -96,7 +96,7 @@ streamlit run app.py
 
 * Thiago
 * Gabriel
-* Vini
+* Vinicius
 
 
 ## Observações Sobre Atualização de Dados
