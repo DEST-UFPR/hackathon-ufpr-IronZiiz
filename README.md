@@ -4,12 +4,12 @@ Projeto desenvolvido pela equipe Mathmorphosis para o Hackathon 2025
 
 ## Resumo do Projeto
 
-Este repositório contém a plataforma desenvolvida para análise de dados de avaliações institucionais. O sistema oferece visualizações, filtros por período, métricas consolidadas e comparação entre anos quando aplicável. A aplicação foi construída em Python com o framework Streamlit.
+Este repositório contém a plataforma desenvolvida para análise de dados de avaliações institucionais. O sistema oferece visualizações, filtros por período, métricas consolidadas e comparação entre anos quando aplicável. A aplicação foi construída em **Python** com o **framework Streamlit**.
 
 Acesse o projeto:
 [https://avaliacaoinstitucionalmath.streamlit.app](https://avaliacaoinstitucionalmath.streamlit.app)
 
-Observação: o site utiliza hospedagem gratuita do Streamlit. Caso esteja offline devido à inatividade, entre em contato pelo número informado no Guia do Avaliador.pdf .
+Observação: o site utiliza hospedagem gratuita do Streamlit. **Caso esteja offline devido à inatividade, entre em contato pelo número informado no Guia do Avaliador.pdf** .
 
 ## Arquitetura do Projeto
 
@@ -94,10 +94,11 @@ streamlit run app.py
 
 ## Participantes
 
-* Thiago
-* Gabriel
-* Vinicius
-
+| Nome     | Funções / Responsabilidades                                   |
+|----------|----------------------------------------------------------------|
+| Thiago   | Arquitetura de Software, Desenvolvimento Full Stack, Documentação|
+| Gabriel  | Engenharia de Dados, Desenvolvimento Front-end                 |
+| Vinicius | Desenvolvimento Back-end, Visualização de Dados (Data Viz)     |
 
 ## Observações Sobre Atualização de Dados
 
